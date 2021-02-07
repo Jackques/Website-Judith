@@ -1,0 +1,10 @@
+WordPress 4.7.2 (live)
+
+Gebackupd:
+* alle berichten, pagina's, reacties, aangepaste velden, voorwaarden, navigatie menu's en aangepaste berichttypen.]
+Hier is de .xml voor, welke ik in wordpress weer kan importeren via: Wordpress -> Extra -> Importeren/exporteren
+
+* Theme (the gem child) instellingen. Dit zit in de theme backup.txt
+Hiermee zijn de kleuren, lettertypes, header aan/uit etc. gebackupd.
+Dit vind je terug onder:
+Wordpress -> Weergave -> (mits the gem (child) theme is geinstalleerd) Theme options -> backup
